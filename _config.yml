@@ -1,0 +1,19 @@
+title: "Unreal Engine Documentation"
+description: "Documentation for Unreal Engine systems and components."
+theme: jekyll-theme-cayman
+markdown: kramdown
+remote_theme: pmarsceill/just-the-docs
+
+# Navigation (for themes that support it)
+nav:
+  - Home: /
+  - Getting Started: /docs/getting-started
+  - Health Component: /docs/health-component
+
+
+just_the_docs:
+  navigation:
+    - name: "Getting Started"
+      url: "/docs/getting-started"
+    - name: "Health Component"
+      url: "/docs/health-component"
