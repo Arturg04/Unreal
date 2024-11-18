@@ -8,5 +8,5 @@ title: Home
 Welcome to the documentation for Unreal Engine components and systems.
 
 ## Sections
-- [Getting Started](docs/getting-started)
-- [Health Component](docs/health-component)
+- [Getting Started](_docs/getting-started)
+- [Health Component](_docs/health-component)

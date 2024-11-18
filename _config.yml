@@ -6,8 +6,8 @@ remote_theme: pmarsceill/just-the-docs
 # Navigation (for themes that support it)
 nav:
   - Home: /
-  - Getting Started: /docs/getting-started
-  - Health Component: /docs/health-component
+  - Getting Started: /_docs/getting-started
+  - Health Component: /_docs/health-component
 
 
 just_the_docs:
