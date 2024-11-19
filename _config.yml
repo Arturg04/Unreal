@@ -8,7 +8,7 @@ just_the_docs:
   # Navigation settings
   navigation:
     - name: "Home"
-      url: "/"
+      url: "/Unreal/"
     - name: "Getting Started"
       url: "/docs/getting-started"
     - name: "Health Component"
