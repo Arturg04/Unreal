@@ -10,9 +10,9 @@ just_the_docs:
     - name: "Home"
       url: "/Unreal/"
     - name: "Getting Started"
-      url: "/docs/getting-started"
+      url: "/Unreal/docs/getting-started"
     - name: "Health Component"
-      url: "/docs/health-component"
+      url: "/Unreal/docs/health-component"
 
 # Optional GitHub repo info
 repository: "arturg04/unreal-documentation"
