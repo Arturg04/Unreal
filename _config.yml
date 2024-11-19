@@ -1,11 +1,12 @@
 title: "Unreal Engine Documentation"
 description: "Documentation for Unreal Engine systems and components."
-repository: just-the-docs/just-the-docs
+theme: just-the-docs
 markdown: kramdown
 
-# Navigation settings
+# Sidebar and navigation configuration
 just_the_docs:
   show_sidebar: true
+  search_enabled: true # Enable search
   navigation:
     - name: "Getting Started"
       url: "/docs/getting-started"
