@@ -5,8 +5,8 @@ title: Home
 
 # Unreal Engine Documentation
 
-Welcome to the documentation for Unreal Engine components and systems.
+Welcome to the official Unreal Engine documentation. Learn how to use our custom components and systems effectively.
 
-## Sections
-- [Getting Started](_docs/getting-started)
-- [Health Component](_docs/health-component)
+## Quick Links
+- [Getting Started](docs/getting-started)
+- [Health Component](docs/health-component)
