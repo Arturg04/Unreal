@@ -1,2 +1,16 @@
 title: "Unreal Engine Documentation"
+description: "Documentation for Unreal Engine systems and components."
+theme: just-the-docs
 markdown: kramdown
+
+# Navigation settings
+just_the_docs:
+  # Enable the sidebar
+  show_sidebar: true
+
+  # Define sidebar navigation structure
+  navigation:
+    - name: "Getting Started"
+      url: "/docs/getting-started"
+    - name: "Health Component"
+      url: "/docs/health-component"
