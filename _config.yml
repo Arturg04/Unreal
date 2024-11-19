@@ -5,10 +5,7 @@ markdown: kramdown
 
 # Navigation settings
 just_the_docs:
-  # Enable the sidebar
   show_sidebar: true
-
-  # Define sidebar navigation structure
   navigation:
     - name: "Getting Started"
       url: "/docs/getting-started"
