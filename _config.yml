@@ -8,11 +8,11 @@ just_the_docs:
   # Navigation settings
   navigation:
     - name: "Home"
-      url: "/Unreal/"
+      url: "/"
     - name: "Getting Started"
-      url: "/Unreal/docs/getting-started"
+      url: "/docs/getting-started"
     - name: "Health Component"
-      url: "/Unreal/docs/health-component"
+      url: "/docs/health-component"
 
 # Optional GitHub repo info
 repository: "arturg04/unreal-documentation"
