@@ -1,6 +1,6 @@
 title: "Unreal Engine Documentation"
 description: "Documentation for Unreal Engine systems and components."
-theme: just-the-docs
+repository: just-the-docs/just-the-docs
 markdown: kramdown
 
 # Navigation settings
