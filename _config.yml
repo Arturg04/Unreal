@@ -1,6 +1,8 @@
 title: "Unreal Engine Documentation"
 description: "Documentation for Unreal Engine systems and components."
 theme: just-the-docs
+url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
+repository: just-the-docs/just-the-docs # for github-metadata
 markdown: kramdown
 
 # Sidebar and navigation configuration
