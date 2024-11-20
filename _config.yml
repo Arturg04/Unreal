@@ -1,8 +1,19 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Unreal Engine Documentation
+description: Documentation for Unreal Engine systems and components."
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+# Sidebar and navigation configuration
+just_the_docs:
+  show_sidebar: true
+  search_enabled: true # Enable search
+  navigation:
+    - name: "Getting Started"
+      url: "/docs/getting-started"
+    - name: "Health Component"
+      url: "/docs/health-component"
