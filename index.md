@@ -4,9 +4,9 @@ title: Home
 nav_order: 1
 ---
 
-# Unreal Engine Documentation
+# Arturg04's Unreal Engine Documentation
 
-Welcome to the official Unreal Engine documentation. Learn how to use our custom components and systems effectively.
+Welcome to Arturg04's Unreal Engine documentation. Learn how to use my custom components and systems effectively.
 
 ## Quick Links
 - [Getting Started](docs/getting-started)
