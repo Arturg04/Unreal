@@ -2,12 +2,6 @@ title: Unreal Engine Documentation
 description: Documentation for Unreal Engine systems and components."
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-
 # Sidebar and navigation configuration
 just_the_docs:
   show_sidebar: true
