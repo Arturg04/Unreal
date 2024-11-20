@@ -11,7 +11,6 @@ aux_links:
 # Sidebar and navigation configuration
 just_the_docs:
   show_sidebar: true
-  search_enabled: true # Enable search
   navigation:
     - name: "Getting Started"
       url: "/docs/getting-started"
